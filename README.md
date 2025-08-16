@@ -1,12 +1,12 @@
-📊 #**Análisis Predictivo de Cancelación de Clientes Telecom X**
+📊 **Análisis Predictivo de Cancelación de Clientes Telecom X**
 
-🎯 ##**Propósito del Análisis**
+🎯 **Propósito del Análisis**
         El objetivo principal de este proyecto es predecir la cancelación de clientes (churn) en la empresa de telecomunicaciones Telecom X,
         mediante el uso de modelos de Machine Learning. Se busca identificar las variables más relevantes que influyen en la decisión de un 
         cliente de irse, para que la empresa pueda implementar estrategias de retención proactivas y efectivas. 
         El análisis se enfoca en traducir datos en insights accionables para la toma de decisiones estratégicas.
 
-📂 ##**Estructura y Organización del Proyecto**
+📂 **Estructura y Organización del Proyecto**
         El proyecto está organizado para facilitar su uso y comprensión. 
         El repositorio contiene los siguientes archivos y directorios:
 
@@ -17,7 +17,7 @@
 
   **Datos Tratados**: Una carpeta que contiene el archivo CSV con los datos limpios y listos para ser utilizados en el modelo.
 
-💻 ##** Proceso de Preparación de Datos**
+💻 ** Proceso de Preparación de Datos**
          El proceso de preparación de los datos fue una etapa crítica para asegurar la calidad de los modelos. Los pasos principales fueron:
 
   **Clasificación de Variables**:
@@ -37,7 +37,7 @@
          Se utilizó la técnica SMOTE para balancear la clase minoritaria (clientes que cancelaron). 
          Esto fue vital para evitar que el modelo se sesgara y para mejorar la detección de la cancelación.
 
-📈 #** Gráficos e Insights Clave**
+📈 ** Gráficos e Insights Clave**
          Durante el análisis exploratorio, se generaron varios gráficos que proporcionaron información valiosa:
 
   **Matrices de Confusión**: 
@@ -48,7 +48,7 @@
          Los gráficos de importancia de variables, generados por los modelos de Random Forest y Regresión Logística, revelaron que los factores 
          clave de la cancelación son los cargos mensuales y totales, la duración del contrato y el tipo de servicio de Internet.
 
-🚀 #** Instrucciones para Ejecutar el Cuaderno**
+🚀 ** Instrucciones para Ejecutar el Cuaderno**
           Para replicar el análisis, sigue estos pasos:
 
   **Entorno**: Se recomienda usar Google Colab o un entorno de Jupyter Notebook.
