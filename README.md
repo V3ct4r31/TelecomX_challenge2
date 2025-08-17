@@ -45,7 +45,7 @@ El proceso de preparación de los datos fue una etapa crítica para asegurar la 
 Durante el análisis exploratorio, se generaron varios gráficos que proporcionaron información valiosa:
 
   * **Matrices de Confusión**: 
-         Muestran el rendimiento de cada modelo, destacando que la Regresión Logística fue la más efectiva para minimizar los Falsos Negativos (clientes que cancelarían pero no fueron predichos). ![Matriz de confusión de los modelos](img/matriz_de_confusion.png)
+         Muestran el rendimiento de cada modelo, destacando que la Regresión Logística fue la más efectiva para minimizar los Falsos Negativos (clientes que cancelarían pero no fueron predichos). ![matrices de confusion de los modelos](img/matrices_de_confusion.png)
 
   * **Importancia de las Variables**:
          Los gráficos de importancia de variables, generados por los modelos de Random Forest y Regresión Logística, revelaron que los factores clave de la cancelación son los cargos mensuales y totales, la duración del contrato y el tipo de servicio de Internet.
